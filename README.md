@@ -1,4 +1,5 @@
-### Hi there 👋
+### ¡Hola mundo! 👋
+ I’m currently learning about frontend with Angular on Platzi Master program. I'm looking to learn about cybersecurity. You can reach me on my linkedin: https://www.linkedin.com/in/frxncismor/
 
 <!--
 **frxncismor/frxncismor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
