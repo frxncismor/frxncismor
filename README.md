@@ -1,7 +1,12 @@
 ### ¡Hola mundo! 👋
- My name is Francisco Moreno and i'm an enthusiast of the frontend and the cybersecurity. Also i'm a student at [UTSC](http://www.utsc.edu.mx/)
+ My name is Francisco Moreno and i'm an enthusiast of the frontend and the cybersecurity. Also i'm a student at [UTSC](http://www.utsc.edu.mx/).
+ 
+ 
  I’m currently learning about frontend with Angular at [Platzi Master program](https://platzi.com/blog/que-es-platzi-master/).
+ 
+ 
  I'm looking to learn about cybersecurity.
+ 
  You can reach me on my [linkedin](https://www.linkedin.com/in/frxncismor/).
 
 <!--
