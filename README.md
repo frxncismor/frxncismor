@@ -8,9 +8,7 @@
  You can reach me 📞 on my [linkedin](https://www.linkedin.com/in/frxncismor/).
  
  ### My stats
- >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frxncismor&theme=buefy&layout=compact)
- 
- >![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=frxncismor&count_private=true&show_icons=true&theme=vue)
+ >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frxncismor&theme=buefy&layout=compact) >![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=frxncismor&count_private=true&show_icons=true&theme=vue)
 
 <!--
 **frxncismor/frxncismor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
