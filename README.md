@@ -19,7 +19,7 @@
 <img align="left" width="335px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frxncismor&layout=compact&hide=html" alt="frxncismor" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=frxncismor&show_icons=true" alt="frxncismor" />
-
+<hr>
 <p align="center">
 <a href="https://codepen.io/frxncismor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="frxncismor" height="30" width="30" /></a>
 <a href="https://twitter.com/frxncismor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="frxncismor" height="30" width="30" /></a>
