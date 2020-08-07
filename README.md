@@ -10,9 +10,9 @@
 - ⚡ Fun fact **I ♥ the cybersecurity**
 
 
-<img align="left" width="335px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frxncismor&layout=compact&hide=html" alt="frxncismor" />
+<img align="left" width="335px" height="195px" src="https://github-readme-stats.frxncismor.vercel.app/api/top-langs/?username=frxncismor&layout=compact&hide=html" alt="Most used languages" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=frxncismor&show_icons=true" alt="frxncismor" />
+<img align="center" src="https://github-readme-stats.frxncismor.vercel.app/api?username=frxncismor&show_icons=true" alt="stats" />
 
 <h4 align="center">Skills</h4>
 
