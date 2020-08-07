@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frxncismor" alt="frxncismor" /> </p>
 
-- 🌱 I’m currently learning **Angular at Platzi Master Program**
+- 🌱 I’m currently learning **Angular at [Platzi Master Program](https://platzi.com/blog/que-es-platzi-master/)**
 
 - 📫 Reach me at **frxncismor@gmail.com**
 
