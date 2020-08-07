@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Angular at Platzi Master Program**
 
-- 📫 How to reach me **frxncismor@gmail.com**
+- 📫 Reach me at **frxncismor@gmail.com**
 
-- ⚡ Fun fact **I love the cybersecurity**
+- ⚡ Fun fact **I love ♥ the cybersecurity**
 
 
 <img align="left" width="335px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frxncismor&layout=compact&hide=html" alt="frxncismor" />
