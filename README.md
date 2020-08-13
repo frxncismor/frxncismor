@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Francisco Javier Moreno Hinojosa👨‍💻</h1>
 <h3 align="center">A passionate frontend developer from Mexico.</h3>
 
+![undraw_static_website_0107](https://user-images.githubusercontent.com/30633617/90190117-0525b400-dd84-11ea-9a93-02426454e0d0.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frxncismor" alt="frxncismor" /> </p>
 
 - 🌱 I’m currently learning **Angular at [Platzi Master Program](https://platzi.com/blog/que-es-platzi-master/)**
