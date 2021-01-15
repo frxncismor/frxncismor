@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frxncismor" alt="frxncismor" /> </p>
 
-- 🌱 I’m currently learning **Angular at [Platzi Master Program](https://platzi.com/blog/que-es-platzi-master/)**
+- 🌱 I’m currently a Frontend Developer at **Globant**
 
 - 📫 Reach me at **frxncismor@gmail.com**
 
