@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frxncismor" alt="frxncismor" /> </p>
 
-- 🌱 I’m currently a Frontend Developer at **Globant**
+- 🌱 I’m currently a Web UI Developer at **Globant**
 
 - 📫 Reach me at **frxncismor@gmail.com**
 
