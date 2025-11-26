@@ -28,7 +28,6 @@ Currently based in **Houston, TX** 🇺🇸 and open to **full-time software eng
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [🛍️ RetailEdge](https://github.com/frxncismor/retailedge) | Microservices-based e-commerce app focused on scalability and modular design. | Angular, Java (Spring Boot), Nx, Docker |
 | [📷 Shelfie](https://shelfie.com.mx) | AI-powered product enhancer that improves online catalog photos. | React, Supabase, Gemini Nano |
 
 ---
