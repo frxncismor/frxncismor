@@ -6,7 +6,7 @@ I approach development from a product perspective — I care about how systems a
 
 Currently integrating **AI** into my workflow pragmatically — using Claude Code, ChatGPT, and Gemini to accelerate development and increase iteration speed, while making intentional decisions about when and how to apply them.
 
-📍 The Woodlands, TX · 🇺🇸 Authorized to work in the US · Open to **Fullstack / Frontend roles**
+📍 The Woodlands, TX · 🇺🇸 Authorized to work in the US · Open to **Product Engineer / Fullstack / Frontend roles**
 
 ---
 
